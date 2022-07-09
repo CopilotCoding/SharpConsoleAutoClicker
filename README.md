@@ -9,6 +9,6 @@ Enter the timer delay amount.
 
 Type start and press enter.
 
-Click the middle mouse button or change the button to autoclick.
+Click the middle mouse button to autoclick.
 
 The autoclicker will run until the program is closed.
