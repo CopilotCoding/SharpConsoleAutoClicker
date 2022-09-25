@@ -1,4 +1,4 @@
-namespace ConsoleAutoclicker
+namespace AutoclickerConsole
 {
     using System.Threading;
     using System;
