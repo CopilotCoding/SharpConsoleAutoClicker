@@ -1,4 +1,4 @@
-# AutoClicker
+# AutoClickerConsole
 A simple C# autoclicker made with a .NET framework console project template.
 
 # Build
